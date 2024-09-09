@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ajaydodiya7773
-   I'm WebDeveloper & Python Developer
-  Always Trying to learn new technologies.
+👋 Hi, I’m @Ajaydodiya7773
+I'm WebDeveloper & Python Developer
+Always excited to learn new technologies.
 
 🙋‍♂️ All about me is at My Website
 
